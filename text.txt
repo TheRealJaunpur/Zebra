@@ -1,0 +1,95 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Real Jaunpur | Zebra</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f9f9f9;
+      color: #222;
+    }
+    header {
+      background: url('https://i.ibb.co/GJzPNvD/jaunpur-banner.jpg') no-repeat center center/cover;
+      height: 100vh;
+      color: white;
+      text-shadow: 2px 2px 8px #000;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 3rem;
+      margin: 0;
+    }
+    header p {
+      font-size: 1.2rem;
+      max-width: 500px;
+    }
+    nav {
+      background: #222;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      border-left: 5px solid #f23;
+      padding-left: 10px;
+    }
+    footer {
+      background: #222;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="#story">Kahani</a>
+    <a href="#videos">Videos</a>
+    <a href="#gallery">Gallery</a>
+    <a href="#contact">Contact</a>
+  </nav> <header>
+    <h1>The Real Jaunpur</h1>
+    <p>Zebra ki kahani – galiyon se nikla hua ek sapna, jo ab duniya ke liye misaal hai.</p>
+  </header> <section id="story">
+    <h2>Meri Kahani</h2>
+    <p>
+      Main Zebra, Jaunpur ke ek chhoti si gali se aaya hoon. Sapne bade the, paise nahi the.
+      Fiverr se freelancing start ki, internet slow tha, par hausla fast tha. 
+      Aaj kahani wahi hai jo galiyon mein likhi jaati hai, aur duniya tak sunai jaati hai.
+    </p>
+    <p>
+      Part 1 to 10 jaldi hi upload hoga – kahani jisme dard bhi hai, mazaak bhi, aur jazba bhi 💪
+    </p>
+  </section> <section id="videos">
+    <h2>Videos</h2>
+    <p>Yahan Zebra ke reels, kahaniyaan aur motivation videos upload honge.</p>
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/your-video-id" frameborder="0" allowfullscreen></iframe>
+  </section> <section id="gallery">
+    <h2>Gallery</h2>
+    <p>Tumhare bhai Zebra ke moments – chai, laptop, gali, hustle aur style!</p>
+    <img src="https://i.ibb.co/xX0YVhF/jaunpur-boy.jpg" alt="Zebra Photo" width="100%" style="max-width:400px; display:block; margin:auto;" />
+  </section> <section id="contact">
+    <h2>Contact</h2>
+    <p>Instagram: <a href="https://instagram.com/TheRealJaunpur" target="_blank">@TheRealJaunpur</a></p>
+    <p>Email: therealjaunpur@gmail.com</p>
+  </section> <footer>
+    &copy; 2025 TheRealJaunpur.com | Powered by Zebra & Rihan
+  </footer>
+</body>
+</html>
